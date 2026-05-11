@@ -1,11 +1,5 @@
 # 🌐 Basic Network Sniffer — CodeAlpha Internship Task 1
 
-!\[Python](https://img.shields.io/badge/Python-3.x-blue)
-!\[Scapy](https://img.shields.io/badge/Library-Scapy-green)
-!\[Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
-!\[Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-!\[Internship](https://img.shields.io/badge/Company-CodeAlpha-orange)
-
 A Python-based **Network Packet Sniffer** built using the `Scapy` library. This tool captures real-time network traffic and displays useful information such as source/destination IP addresses, protocols (TCP/UDP/ICMP), port numbers, and packet payloads.
 
 \---
