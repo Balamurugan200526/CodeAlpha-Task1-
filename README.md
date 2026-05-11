@@ -68,7 +68,7 @@ Network sniffers are used by cybersecurity professionals for:
 **Step 1 — Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/CodeAlpha\_BasicNetworkSniffer.git
+git clone https://github.com/Balamurugan200526/CodeAlpha\_BasicNetworkSniffer.git
 cd CodeAlpha\_BasicNetworkSniffer
 ```
 
