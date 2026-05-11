@@ -177,7 +177,7 @@ This tool is built for **educational purposes only** as part of the CodeAlpha Cy
 * **Name:** Balamurugan S
 * **Internship:** CodeAlpha Cybersecurity Internship
 * **LinkedIn:** https://www.linkedin.com/in/balamurugan-s-468387337?utm\_source=share\_via\&utm\_content=profile\&utm\_medium=member\_android
-* **GitHub:** 
+* **GitHub:** https://github.com/Balamurugan200526/CodeAlpha-Task1-.git
 
 \---
 
